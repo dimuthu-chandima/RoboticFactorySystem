@@ -1,0 +1,4 @@
+﻿interface IRobotPrototype
+{
+    IRobotPrototype Clone();
+}
